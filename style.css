@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Mallanna&DancingScriptdisplay=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap');
+
+ul.nav.justify-content-end{
+    background-color: black;
+height: 55px;
+}
+
+li a.nav-link{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    
+}
+
+ul #search{
+margin-top: 12px;
+border-radius: 12px;
+}
+
+a.nav-link:hover{
+    color:black;
+    background-color: grey; 
+    border-radius: 1px;
+   
+}
+
+
+.nav-text{
+ display: flex;;
+ color: white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ margin-top: 14px;
+ overflow: hidden;
+ float: left;
+ margin-right: 400px;
+ font-family: 'DM Sans', sans-serif;
+font-size: 22px;
+}
+.col-1{
+    margin-left: 14px;
+}
+.col-1 , .col-2{
+    width: 18.043%;
+}
+a.links-1{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    margin: 0%;
+    font-family: 'Mallanna', sans-serif;
+    font-weight: lighter;
+    white-space: nowrap;
+}
+
+a.links-1:hover{
+    color:rgb(33, 165, 33);
+    font-size : 18px;
+    
+}
+
+.col-1 h5{
+    margin-left: 45px;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color:white;
+    font-family: 'Mallanna', sans-serif; 
+}
+
+ .col-2 h5 , .col-3 h5{
+   margin-left: 35px;
+   font-size: 24px;
+   margin-bottom: 15px;
+   color:white;
+   font-family: 'Mallanna', sans-serif;
+}
+
+.footer-tb{
+    background-color: black;
+    margin-bottom: 10px;
+    padding: 28px;
+}
+
+span.footer-text p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Mallanna', sans-serif;
+    font-size: 18px;
+}
+.col-4 p{
+color:white;
+margin-top: 40px;
+margin-bottom: 0px;
+font-size: 15px;
+font-family: 'Mallanna', sans-serif;
+}
+
+.col-4 {
+    color: white;
+    padding: 14px;
+   font-family:  'Mallanna', sans-serif;
+}
+
+div.card  {
+margin-bottom: 30px;
+margin-top: 30px;
+margin-left: 10px;
+display: inline-block;
+}
+
+body{
+    background-color: "pink";
+}
+
+ul.mp3{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    border: 1px black;
+}
+
+a.mp3-link{
+    list-style-type: none;
+    text-decoration: none;
+    font-family: "Mallana" sans-serif;
+    color: black;
+}
+
+a.mp3-link button{
+    border-radius: 12px;
+    background-color: wheat;
+}
+
+.box{
+    position: relative;
+    margin: 40px;
+}
+
+.body p{
+    display: inline;
+
+}
